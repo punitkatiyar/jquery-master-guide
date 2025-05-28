@@ -15,3 +15,9 @@
     referrerpolicy="no-referrer">
 </script>
 ```
+## Script Attribute List We Use
+
+- src : Specifies the URL of an external JavaScript file.
+- integrity : Enables Subresource Integrity (SRI) — ensures the file hasn’t been tampered with.
+- crossorigin : Handles CORS (Cross-Origin Resource Sharing) for external scripts.
+- referrerpolicy : Controls how much referrer info is sent with the script request.
