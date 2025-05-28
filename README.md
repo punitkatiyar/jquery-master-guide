@@ -2,6 +2,8 @@
 
 **jQuery is a fast, small, and feature-rich JavaScript library. It was created to simplify HTML DOM manipulation, event handling, animation, and AJAX interactions for rapid web development.**
 
+<img src="https://miro.medium.com/v2/resize:fit:860/0*eFomJUFua8tuqe8g.png" width="25%">
+
 ## how to setup Jquery ( CDN Method ) 
 
 - create html file 
