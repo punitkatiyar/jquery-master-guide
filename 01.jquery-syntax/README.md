@@ -1,7 +1,7 @@
 # JQuery Syntax
 
 ```
-$(selector).action()
+  $(selector).action()
 ```
 - $ → Access jQuery
 - selector → Targets HTML elements (like CSS selectors)
