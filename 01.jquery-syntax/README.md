@@ -9,7 +9,7 @@
 
 ## Document Object Model Ready
 
-- Run code only after the HTML is fully loaded
+- **👇 Run code only after the HTML is fully loaded**
 
 ```
 $(document.ready(function(){
@@ -17,7 +17,7 @@ $(document.ready(function(){
 }))
 ```
 
-- short hand
+- **👇 short hand**
 
 ```
   $(function(){
