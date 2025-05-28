@@ -26,6 +26,15 @@ $(document.ready(function(){
   })
 ```
 
+## JQuery Selectors.
+
+```
+$('#id')         // Select element by ID
+$('.class')      // Select elements by class
+$('tag')         // Select all elements by tag (e.g., div, p)
+```
+
+
 
 
 
